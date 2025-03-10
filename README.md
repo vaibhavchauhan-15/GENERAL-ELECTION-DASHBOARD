@@ -1,6 +1,6 @@
 # 🗳️ General Election 2024 Dashboard
 
-This Tableau dashboard visualizes the results of the **Indian General Election 2024** with insights into party-wise seats, leading candidates, and vote margins.
+This Power BI dashboard visualizes the results of the **Indian General Election 2024** with insights into party-wise seats, leading candidates, and vote margins.
 
 ## 📊 Dashboard Overview
 
@@ -23,17 +23,17 @@ This Tableau dashboard visualizes the results of the **Indian General Election 2
 ✅ **Party-wise Seat Distribution**  
 ✅ **Alliance-wise Bifurcation**  
 ✅ **Leading Candidates & Vote Margins**  
-✅ **Interactive Tableau Visualization**  
+✅ **Interactive Power BI Visualization**  
 
 ## 🚀 How to Use
 
-1. Open the Tableau file (`.twbx`) to explore interactive visualizations.
+1. Open the Power BI file (`.pbix`) to explore interactive visualizations.
 2. Filter data based on constituencies, parties, or alliances.
 3. Analyze vote margins and party performance.
 
 ## 📈 Built With
 
-- **Tool:** Tableau
+- **Tool:** Power BI
 - **Data Source:** Election Commission of India (ECI)
 - **Visualization Elements:** Bar Charts, Pie Charts, and Tables
 
@@ -44,4 +44,3 @@ This Tableau dashboard visualizes the results of the **Indian General Election 2
 
 ---
 
-📌 *For more details, visit the Tableau Public dashboard link (https://www.tableau.com/community/public).*  
