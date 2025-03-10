@@ -39,8 +39,8 @@ This Tableau dashboard visualizes the results of the **Indian General Election 2
 
 ## 📢 Contributors
 
-- **[Your Name]**
-- **[Team Members, if any]**
+- **Vaibhav Chauhan**
+- 
 
 ---
 
