@@ -44,4 +44,4 @@ This Tableau dashboard visualizes the results of the **Indian General Election 2
 
 ---
 
-📌 *For more details, visit the Tableau Public dashboard link (if hosted).*  
+📌 *For more details, visit the Tableau Public dashboard link (https://www.tableau.com/community/public).*  
